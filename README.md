@@ -12,4 +12,4 @@ lkjmlkj
 ## Project noterbooks
 
 * [Run demo notebook](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/datascience-notebook.ipynb)
-* [A full data science notebook]()
+* [A full data science notebook](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/EDA_explorations_text.ipynb)
