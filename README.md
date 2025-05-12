@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/jcmeunier77code/data-science-demo-Duke/actions/workflows/main.yml/badge.svg)](https://github.com/jcmeunier77code/data-science-demo-Duke/actions/workflows/main.yml)
+
 # data-science-demo-Duke
 Data science portfolio demo (Noah Gift, Duke University)
 
