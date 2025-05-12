@@ -1,0 +1,10 @@
+pytest
+pylint
+jupyter
+pytest-cov
+pandas
+nbval==0.11.0
+click
+flask
+requests
+
