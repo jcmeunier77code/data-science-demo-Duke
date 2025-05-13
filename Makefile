@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest --nbval datascience-notebook.ipynb
+	python -m pytest --nbval notebooks/datascience-notebook.ipynb
 
 format:
 	black *.py
