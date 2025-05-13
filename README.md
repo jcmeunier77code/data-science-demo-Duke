@@ -11,10 +11,12 @@ I looked at x, y, z
 
 lkjmlkj
 
-## Project noterbooks
+## Project notebooks
 
 * [Run demo notebook](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/datascience-notebook.ipynb)
 * [A full data science notebook](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/EDA_explorations_text.ipynb)
+
+  [open my notebook in colab](https://colab.research.google.com/drive/1uC2eW4OkBxvyfEAb5Drvpt8MZqMjeyHa?usp=sharing)
 
 ## Raw data
 
