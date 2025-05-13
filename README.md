@@ -20,4 +20,6 @@ lkjmlkj
 
 ## Raw data
 
-* [country_wise_latest.csv](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/country_wise_latest.csv)
+* [country_wise_latest.csv](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/data/country_wise_latest.csv)
+* [us-states-covid](https://github.com/jcmeunier77code/data-science-demo-Duke/blob/main/data/us_states.csv)
+  
